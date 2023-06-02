@@ -6,9 +6,9 @@ Train, validation dataset IMDBDataset.csv in the code: https://www.kaggle.com/da
 
 Test dataset TestSet.csv in the code: https://www.kaggle.com/datasets/yasserh/imdb-movie-ratings-sentiment-analysis
 ## File explanation.
-In the notebook file the preprocessing steps that were taken before exploring the data can be found. 
+In the notebook file we perform several preprocessing steps that were taken before and during exploring the data. 
 This ranges from stemming words and deleting stopwords and other preprocessing of words which is important for classification. 
 
-In the notebook file you can find the preprocessing of our data and also the exploratory data analysis, data cleaning and the our classification models with evaluation can be found.
+In the notebook file you can also find exploratory data analysis, data cleaning and the our classification models with evaluation can be found.
 
 All data files, both raw, cleaned, and third party, can be found in this github page.
