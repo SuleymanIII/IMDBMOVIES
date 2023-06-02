@@ -10,5 +10,5 @@ In the notebook file we perform several preprocessing steps that were taken befo
 This ranges from stemming words and deleting stopwords and other preprocessing of words which is important for classification. 
 
 In the notebook file you can also find exploratory data analysis, data cleaning and the our classification models with evaluation can be found.
-You might need to pip install some modules we have used for classification but they are all python packages and should be straightforward do install.
+You might need to pip install some modules we have used for classification but they are all python packages and should be straightforward to install.
 All data files, both raw, cleaned, and third party, can be found in this github page.
